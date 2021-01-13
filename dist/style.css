@@ -1,0 +1,6 @@
+body.t-megam .main {
+  display: none;
+}
+body.t-megam.t-megam_L .main {
+  display: block;
+}

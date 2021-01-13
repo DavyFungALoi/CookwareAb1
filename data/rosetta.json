@@ -1,0 +1,180 @@
+{
+    "pdp" : {
+        "discount" : {
+            "nl" : "korting",
+            "en" : "discount",
+            "de" : "Rabatt",
+            "es" : "descuento",
+            "fr" : "réduction",
+            "it" : "sconto"
+        },
+        "close" : {
+            "nl" : "sluiten",
+            "en" : "close",
+            "de" : "schließen",
+            "es" : "cerrar",
+            "fr" : "fermer",
+            "it" : "chiudere"
+        },
+        "pakket" : {
+            "nl" : "Pakket",
+            "en" : "Kit",
+            "de" : "Pakete",
+            "es" : "Paquete",
+            "fr" : "Kit",
+            "it" : "Pacchetti"
+        },
+        "maxcapacity" : {
+            "nl" : "Pompcapaciteit",
+            "en" : "Max. pump capacity",
+            "de" : "Fördermenge",
+            "es" : "Capacidad máx",
+            "fr" : "Débit max",
+            "it" : "Portata della pompa"
+        },
+        "maxcapacityBETWEAK" : {
+            "nl" : "Debiet",
+            "en" : "Debiet",
+            "de" : "Debiet",
+            "es" : "Debiet",
+            "fr" : "Debiet",
+            "it" : "Debiet"
+        },
+        "maxdeliveryhead" : {
+            "nl" : "Opvoerhoogte",
+            "en" : "Max. delivery head",
+            "de" : "Förderhöhe",
+            "es" : "Altura de elevación máx",
+            "fr" : "Hauteur de refoulement",
+            "it" : "Prevalenza"
+        },
+        "solidparticles" : {
+            "nl" : "Vaste delen",
+            "en" : "Solid particles",
+            "de" : "Korngröße",
+            "es" : "Sólidos en suspensión",
+            "fr" : "Granulométrie",
+            "it" : "Dimensione massima delle particelle solide pompate"
+        },
+        "numberofwaterpoints" : {
+            "nl" : "Aantal waterpunten:",
+            "en" : "Number of sprinklers / water points used at the same time:",
+            "de" : "Beregner:",
+            "es" : "Cantidad de aspersores:",
+            "fr" : "Arroseurs:",
+            "it" : "Numero di irrigatori/utenze contemporanei:"
+        },
+        "length" : {
+            "nl" : "Lengte:",
+            "en" : "Length:",
+            "de" : "Länge:",
+            "es" : "Longitud:",
+            "fr" : "Longueur :",
+            "it" : "Lunghezza:"
+        },
+        "lengthtwo" : {
+            "nl" : "Lengte:kk",
+            "en" : "Length:kk",
+            "de" : "Länge:kk",
+            "es" : "Largo:",
+            "fr" : "Largeur:",
+            "it" : "Lunghezza:kk"
+        },
+        "innerdiameter" : {
+            "nl" : "Binnendiameter:",
+            "en" : "Inner diameter",
+            "de" : "Innendurchmesser:",
+            "es" : "Diámetro interior:",
+            "fr" : "Diamètre intérieur :",
+            "it" : "Diametro interno:"
+        },
+        "fittedwith" : {
+            "nl" : "Fitted with",
+            "en" : "Fitted with",
+            "de" : "close",
+            "es" : "Capacidad máx",
+            "fr" : "closekk",
+            "it" : "closekk"
+        },
+        "indispensablefor" : {
+            "nl" : "-",
+            "en" : "Indispensable for",
+            "de" : "close",
+            "es" : "Capacidad máx",
+            "fr" : "Indispensable pour",
+            "it" : "close"
+        },
+        "fittingsfor" : {
+            "nl" : "Extra koppelstukken voor",
+            "en" : "Fittings for",
+            "de" : "Extra Verbundstücke für",
+            "es" : "Conectores de manguera de",
+            "fr" : "Raccords pour",
+            "it" : "Connettori extra per"
+        },
+        "overaldimension" : {
+            "nl" : "Inbouwmaat",
+            "en" : "Overall dimensions",
+            "de" : "Einbaugröße",
+            "es" : "Dimensiones de conexión",
+            "fr" : "Entraxe",
+            "it" : "Dimensioni di installazione"
+        },
+        "screwconnection" : {
+            "nl" : "Schroefaansluiting ",
+            "en" : "Screw connection",
+            "de" : "Schraubanschluss",
+            "es" : "Conexión roscada",
+            "fr" : "Diamètre du filetage",
+            "it" : "Collegamento filettato"
+        },
+        "material" : {
+            "nl" : "Materiaal:",
+            "en" : "Material:",
+            "de" : "Material:",
+            "es" : "Material:",
+            "fr" : "Matériau :",
+            "it" : "Materiale:"
+        },
+        "screwthreadsize" : {
+            "nl" : "-",
+            "en" : "Screw thread size:",
+            "de" : "Gewindegröße:",
+            "es" : "Tamaño 1:",
+            "fr" : "Dimensions raccord fileté :",
+            "it" : "Dimensione della filettatura:"
+        },
+        "hosesocketsize" : {
+            "nl" : "Maat tule:",
+            "en" : "Hose socket size:",
+            "de" : "Tüllengröße:",
+            "es" : "Tamaño 2:",
+            "fr" : "Dimensions du raccord :",
+            "it" : "Misura dell’attacco:"
+        },
+        "plug" : {
+            "nl" : "Stekker:",
+            "en" : "Plug",
+            "de" : "Stecker:",
+            "es" : "Conexión",
+            "fr" : "Prise :",
+            "it" : "Spina:"
+        },
+        "sizeone" : {
+            "nl":"Maat 1:",
+            "en": "Size 1:",
+            "de" : "Stecker:",
+            "es" : "Tamaño 1:",
+            "fr" : "Dimensions 1 :",
+            "it" : "Spina:"
+        },
+        "sizetwo" : {
+            "nl":"Maat 2:",
+            "en": "Size 2:",
+            "de" : "Stecker:",
+            "es" : "Tamaño 2:",
+            "fr" : "Dimensions 2 :",
+            "it" : "Spina:"
+        }
+    }
+}
